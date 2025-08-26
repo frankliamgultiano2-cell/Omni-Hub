@@ -1,2 +1,4 @@
 # Omni-Hub
-A Universal Script
+A Roblox Universal Script
+
+You can use this script Any game.
